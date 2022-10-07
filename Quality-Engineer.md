@@ -2,19 +2,17 @@
 
 The primary system for team members on this path is the quality program and includes automated regression tests for UI's and API's and related tools that we use to create a high quality experience for our customers. 
 
-| Level | Senior | Position |
-| :---: | :---: | :---: |
-| 1 | No | [QE1 - Quality Engineer 1](#qe1---quality-engineer-1) |
-| 2 | No | [QE2 - Quality Engineer 2](#qe2---quality-engineer-2) |
-| 3 | No | [QE3 - Quality Engineer 3](#qe3---quality-engineer-3) |
-| 4 | No | [QE4 - Quality Engineer 4](#qe4---quality-engineer-4) |
+| Level |  Position |
+| :---: |  :---: |
+| 1 | [QE1 - Quality Engineer 1](#qe1---quality-engineer-1) |
+| 2 | [QE2 - Quality Engineer 2](#qe2---quality-engineer-2) |
+| 3 | [QE3 - Quality Engineer 3](#qe3---quality-engineer-3) |
+| 4 | [QE4 - Quality Engineer 4](#qe4---quality-engineer-4) |
 
 # System Specifics:
+The system for Quality Engineers is how we ensure high quality experiences for our customers
 * **Technology**: automated testing tools, code quality assessment tools 
-* **System**: quality engineering program
-* **People**: relationship with the team(s)
-* **Process**: level of engagement with quality engineering processes
-* **Influence**: social network influence
+* **Process**: quality engineering processes, quality assurance processes
 
 ## QE1 - Quality Engineer 1
 

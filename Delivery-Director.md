@@ -9,11 +9,9 @@ The primary system for team members on this path is the work discipline program 
 | 3 | [DD3 - Delivery Director 3](#dd3---delivery-director-3) |
 
 # System Specifics:
-* **Technology**: Issue Management platforms, Agile development, Kanban, performance modeling (e.g., control charts, throughput) 
-* **System**: work discipline and management
-* **People**: relationship with the team(s)
-* **Process**: level of engagement with product engineering processes
-* **Influence**: social network influence
+The system for Deliver Directors is the way in which the company creates discipline around work, models it and manages it.
+* **Technology**: Issue Management platforms like Jira, Agile development, Kanban, performance modeling (e.g., control charts, throughput) 
+* **Process**: Work management processes, and progress reporting 
 
 ## DD1 - Delivery Director 1
 
@@ -22,28 +20,28 @@ The primary system for team members on this path is the work discipline program 
 * **[Technology](README.md#technology) - Specializes**
 * **[System](README.md#technology) - Designs**
 * **[People](README.md#people) - Coordinates**
-* **[Process](README.md#process) - Defines**
-* **[Influence](README.md#influence) - Multiple Teams**
+* **[Process](README.md#process) - Adjusts**
+* **[Influence](README.md#influence) - Many Teams**
 
 ## DD2 - Delivery Director 2
 
 ![System Dimensions](charts/Layr-Engineering-Path-DD2.png "Delivery Director 2")
 
-* **[Technology](README.md#technology) - Specializes**
+* **[Technology](README.md#technology) - Evangelizes**
 * **[System](README.md#technology) - Owns**
 * **[People](README.md#people) - Manages**
 * **[Process](README.md#process) - Defines**
-* **[Influence](README.md#influence) - Company**
+* **[Influence](README.md#influence) - Many Teams**
 
 ## DD3 - Delivery Director 3
 
 ![System Dimensions](charts/Layr-Engineering-Path-DD3.png "Delivery Director 3")
 
-* **[Technology](README.md#technology) - Specializes**
+* **[Technology](README.md#technology) - Masters**
 * **[System](README.md#technology) - Evolves**
 * **[People](README.md#people) - Manages**
 * **[Process](README.md#process) - Defines**
-* **[Influence](README.md#influence) - Community**
+* **[Influence](README.md#influence) - Company**
 
 # Also Known As
 * Program Manager

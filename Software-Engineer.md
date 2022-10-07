@@ -13,11 +13,9 @@ The primary system for team members on this path is software we build to enable 
 | 7 | [SE - Software Engineer 7](#se7---software-engineer-7) |
 
 # System Specifics:
+The system for Software Engineers is everything necessary to build and run Layr software applications
 * **Technology**: cloud infrastructure, application programming languages, infrastructure programming languages, etc   
-* **System**: the running platform and everything that support it (e.g., build processes, deployment, monitoring, etc)
-* **People**: relationship with the team(s)
-* **Process**: level of engagement with software engineering processes
-* **Influence**: social network influence
+* **Process**: coding practices, build processes, peer review processes
 
 ## SE1 - Software Engineer 1
 

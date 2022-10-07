@@ -12,7 +12,7 @@ Once everyone agrees to the IDO, it must be entered into Lattice as an objective
 * An Engineer has expressed a desire to become a director and is looking for practice
 
 Once the team member -
-* Meets all of the performance expectations for the next step in their career
-* Completes all of the training and certifications for all of the levels necessary for the next step
+* Meets all the performance expectations for the next step in their career
+* Completes all the training and certifications for all the levels necessary for the next step
 
-They may submit a petition to the their director for a promotion with all of the evidence from Lattice.  The promotion will be discussed at the next quarterly coaching meeting.  If the team unanimously agrees to the promotion, we will change the team member's designation to recognize their increased level of contribution to our customers.  Pay increases occur  
+They may submit a petition to the their director for a promotion with all the evidence from Lattice.  The promotion will be discussed at the next quarterly coaching meeting.  If the team unanimously agrees to the promotion, we will change the team member's designation to recognize their increased level of contribution to our customers.  Pay increases occur  

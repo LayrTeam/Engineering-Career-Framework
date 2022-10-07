@@ -9,11 +9,9 @@ The primary system for team members on this path is the quality program and incl
 | 3 | [QD3 - Quality Director 3](#qd3---quality-director-3) |
 
 # System Specifics:
+The system for Quality Directors is how we ensure high quality experiences for our customers
 * **Technology**: automated testing tools, code quality assessment tools 
-* **System**: quality engineering program
-* **People**: relationship with the team(s)
-* **Process**: level of engagement with quality engineering processes
-* **Influence**: social network influence
+* **Process**: quality engineering processes, quality assurance processes
 
 ## QD1 - Quality Director 1
 

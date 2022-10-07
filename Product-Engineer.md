@@ -2,19 +2,17 @@
 
 Role responsible for working with business leaders, industry experts, customers, and stakeholders to identify, document, and communicate requirements.
 
-| Level | Senior | Position |
-| :---: | :---: | :---: |
-| 1 | No | [RE1 - Product Engineer 1](#pe1---product-engineer-1) |
-| 2 | No | [RE2 - Product Engineer 2](#pe2---product-engineer-2) |
-| 3 | No | [RE3 - Product Engineer 3](#pe3---product-engineer-3) |
-| 4 | No | [RE4 - Product Engineer 4](#pe4---product-engineer-4) |
+| Level | Position |
+| :---: |  :---: |
+| 1 | [RE1 - Product Engineer 1](#pe1---product-engineer-1) |
+| 2 | [RE2 - Product Engineer 2](#pe2---product-engineer-2) |
+| 3 | [RE3 - Product Engineer 3](#pe3---product-engineer-3) |
+| 4 | [RE4 - Product Engineer 4](#pe4---product-engineer-4) |
 
 # System Specifics:
-* **Technology**: issue management platforms
-* **System**: product engineering program
-* **People**: relationship with the team(s)
-* **Process**: level of engagement with product engineering process
-* **Influence**: social network influence
+The system for Product Engineers is the way we define products for Layr, create product strategy, and collect product requirements 
+* **Technology**: Issue Management platforms,  
+* **Process**: requirements engineering processes, product strategy, release strategy
 
 ## PE1 - Product Engineer 1
 

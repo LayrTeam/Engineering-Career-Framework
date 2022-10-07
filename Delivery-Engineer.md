@@ -10,18 +10,16 @@ The primary system for team members on this path is the work discipline program 
 | 4 | [DE4 - Delivery Engineer 4](#de3---delivery-engineer-4) |
 
 # System Specifics:
-* **Technology**: Issue Management platforms, Agile development, Kanban, performance modeling (e.g., control charts, throughput) 
-* **System**: work discipline and management
-* **People**: relationship with the team(s)
-* **Process**: level of engagement with product engineering processes
-* **Influence**: social network influence
+The system for Deliver Engineers is the way in which the company creates discipline around work, models it and manages it.
+* **Technology**: Issue Management platforms like Jira, Agile development, Kanban, performance modeling (e.g., control charts, throughput) 
+* **Process**: Work management processes, and progress reporting 
 
 ## DE1 - Delivery Engineer 1
 
 ![System Dimensions](charts/Layr-Engineering-Path-DE1.png "Delivery Engineer 1")
 
 * **[Technology](README.md#technology) - Adopts**
-* **[System](README.md#technology) - Enhances**
+* **[System](README.md#technology) - Follows**
 * **[People](README.md#people) - Learns**
 * **[Process](README.md#process) - Follows**
 * **[Influence](README.md#influence) - Sub Team**
@@ -34,11 +32,11 @@ The primary system for team members on this path is the work discipline program 
 * **[System](README.md#technology) - Designs**
 * **[People](README.md#people) - Supports**
 * **[Process](README.md#process) - Enforces**
-* **[Influence](README.md#influence) - Team**
+* **[Influence](README.md#influence) - One Team**
 
 ## DE3 - Delivery Engineer 3
 
-![System Dimensions](charts/Layr-Engineering-Path-DE3.png "Delivery Engineer 3)
+![System Dimensions](charts/Layr-Engineering-Path-DE3.png "Delivery Engineer 3")
 
 * **[Technology](README.md#technology) - Specializes**
 * **[System](README.md#technology) - Designs**
