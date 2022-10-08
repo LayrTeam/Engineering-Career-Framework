@@ -23,9 +23,9 @@ The framework is composed of different systems, each of which is critical to del
 ## Systems
 For our purposes, the definition of a system, is -
 
-_"A combination of people, technologies, and processes that produce artifacts used as inputs to high-value technology enabled experiences for our customers"_
+_"A combination of people, technologies, and processes that produce artifacts used to create technology enabled experiences for our customers"_
 
-Different companies use different systems depending on the technology under development.  The Layr Engineering team determine that the following systems are necessary to deliver for our customers, users, and stakeholders -
+Different companies combine different systems (e.g., combinations of people. technologies, and processes) to create the experiences that will bring the most value to their customers. The Layr Engineering team determined that the following systems are necessary to deliver for our customers, users, and stakeholders -
 * Software
   * Application & Infrastructure code
   * Build processes
