@@ -47,6 +47,8 @@ There are two different types of roles operating within in each system:
 
 Consequently, for each system you will find an engineering role and a director role. So, who is responsible for the effectiveness of directors and the team as a whole?  This responsibility falls to the [**Engineering Director**](Engineering-Director.md). Using [RACI](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix) vernacular, the Engineering Director is generally accountable for the effectiveness of the entire engineering team across all systems while engineering directors are responsible for the effectiveness of teams operating within their system. To better understand how this works refer to this overview on [directing directors](Directing-Directors.md)
 
+This responsibility could be viewed as another system, one that focuses on overall team effectiveness, strategic skill alignment, social network analyses, optimization plans, etc. We will call this the Team system.
+
 There is sometimes confusion over the difference between a [Software Director](Software-Director.md) and an [Engineering Director](Engineering-Director.md), please refer to the [Software Director vs Engineering Director](Comparison-Software-Director-Engineering-Director.md) page for a detailed comparison.
 
 ## System Dimensions
@@ -68,7 +70,7 @@ Below are the general skill level expectations for each dimension in a system.
 #### Technology  
 
 1. **Adopts**: actively learns and adopts the technology and tools defined by the team for the system
-2. **Specializes**: is the go-to person for one or more technologies used in the system and takes initiative to learn new ones
+2. **Specializes**: is the go-to person for one or more technologies used in the system and takes the initiative to learn new ones
 3. **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team to accelerate the team and reduce costs
 4. **Masters**: has very deep knowledge about the whole technology stack of the system
 5. **Creates**: designs and creates new technologies that are widely used that dramatically accelerate the team and reduce costs
@@ -79,7 +81,7 @@ Below are the general skill level expectations for each dimension in a system.
 2. **Designs**: designs and implements medium to large size features while reducing the system's tech debt
 3. **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
 4. **Evolves**: evolves the system to support future requirements and defines its SLAs
-5. **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
+5. **Leads**: leads the technical excellence of the system and creates plans to mitigate risks
 
 #### People
 
@@ -145,7 +147,7 @@ Here are the profiles for each role and level in Layr Engineering team (click on
 
 # FAQs
 
-**What if some of the people don't meet all the points?**
+**What if some people don't meet all the points?**
 That is very normal, people are usually stronger in some areas and weaker in others. The framework should not be used as a checklist to promote people but instead as guidance to have meaningful career conversations.
 
 **What if I disagree with the Layr Engineering Ladders?**

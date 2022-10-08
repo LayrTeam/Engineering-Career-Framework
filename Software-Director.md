@@ -10,7 +10,7 @@ The primary system for team members on this path is software we build to enable 
 
 # System Specifics:
 The system for Software Directors is everything necessary to build and run Layr software applications
-* **Technology**: cloud infrastructure, application programming languages, infrastructure programming languages, etc   
+* **Technology**: GitHub, cloud infrastructure, application programming languages, infrastructure programming languages, etc   
 * **Process**: coding practices, build processes, peer review processes
 
 ## SD1 - Software Director 1

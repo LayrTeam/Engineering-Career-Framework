@@ -8,6 +8,11 @@ Accountable for the consistent delivery, career growth, and productivity for all
 | 2 | [ED2 - Engineering Director 2](#ed2---engineering-director-2) |
 | 3 | [ED3 - Engineering Director 3](#ed3---engineering-director-3) |
 
+# System Specifics:
+The system for Engineering Directors is the overall team: 
+* **Technology**: Lattice, LinearB, GitHub
+* **Process**: Engineering Ladders, 1:1's, strategic planning for skill development   
+
 ## ED1 - Engineering Director 1
 
 ![System Dimensions](charts/Layr-Engineering-Path-EE1.png "Engineering Director 1")
