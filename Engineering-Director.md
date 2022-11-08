@@ -11,7 +11,7 @@ Accountable for the consistent delivery, career growth, and productivity for all
 # System Specifics:
 The system for Engineering Directors is the overall team: 
 * **Technology**: Lattice, LinearB, GitHub
-* **Process**: Engineering Ladders, 1:1's, strategic planning for skill development   
+* **Process**: Engineering Career Framework, 1:1's, strategic planning for skill development   
 
 ## ED1 - Engineering Director 1
 

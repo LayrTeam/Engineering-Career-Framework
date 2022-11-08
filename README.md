@@ -4,7 +4,7 @@ This framework allows managers and directors to have meaningful conversations wi
 
 Our mission is to create the very best technology enabled experience possible for our those that use our software.  That means constantly improving our software, tooling, processes, culture, and team members. We encourage you to use this document to plan out that journey for yourself.
 
-We expect that the Layr Engineering Ladders will change over time as the landscape of software engineering changes.  We encourage all team members to submit pull requests to make the Layr Engineering Ladders better serve our customers with the very best experience possible. 
+We expect that the Layr Engineering Career Framework will change over time as the landscape of software engineering changes.  We encourage all team members to submit pull requests to make the Layr Engineering Career Framework better serve our customers with the very best experience possible. 
 
  There are a number of different dimensions at play in that work together to create a great, high value experience for our customers. The framework heavily relies on role level responsibilities for the different systems necessary to deliver value to our customers.  To help you visualize the dimensions of these systems and the degree to which each level impacts that system, we rely heavily on radar charts:
 
@@ -16,6 +16,12 @@ We designed these charts to represent the progression in the scope of responsibi
 We are a highly collaborative organization that relies on a competition of ideas.  It will be your ideas, the data you bring to back those ideas, and your contributions that will dictate your progress with our company; not your tenure or title. This framework is not meant to dictate a hierarchy or a reporting structure. We are all accountable to our customers and shareholders for the best possible results.  We are all responsible for supporting each other as we work together to create the best possible experience for our customers.
 
 This framework is also not intended to shut down debate about how we can deliver better results for our customers.  All opinions are worth hearing, and those opinions backed up by data will be the ones worth acting on.  If you have an opinion about how we can deliver better results for our clients, and you have the data to back it up, it doesn't matter what role you play in our organization. Likewise, your role in the company does not give your opinion more weight than those backed by data.
+
+Finally, this framework is not a message to the team to "level up or be fired."  Yes, our default expectation is that every team member is working to level up their skills every quarter to be a better, more valuable team member. However, those improvements, may not be directly inline with moving up to the next level in your designation.
+
+Sometimes they may be designed to plan a move to a different designation. Other times they may be strategically important improvements that help the company achieve a result but are not critical to leveling up.  Yet other times, rock solid team members may have no interest in leveling up but want to acquire other skills that can help them more enjoy their work.
+
+Then, there are sometimes, there are good reasons to not pursue any improvements at all.  Life happens and when it does it can make it challenging to do anything other than just getting through the day. Sick family members, natural disasters, and other dynamics outside of someone's control mean that all they can do is get through the day.
 
 # Systems, Roles, Dimensions, Levels
 The framework is composed of different systems, each of which is critical to delivering business value for our customers.
@@ -150,8 +156,8 @@ Here are the profiles for each role and level in Layr Engineering team (click on
 **What if some people don't meet all the points?**
 That is very normal, people are usually stronger in some areas and weaker in others. The framework should not be used as a checklist to promote people but instead as guidance to have meaningful career conversations.
 
-**What if I disagree with the Layr Engineering Ladders?**
-The Layr Engineering Ladders is open to the entire Layr Engineering team.  We invite all members to submit pull requests to improve it.  Furthermore, the Layr Engineering Paths is in a public repository so anyone can help us improve with your perspectives.
+**What if I disagree with the Layr Engineering Career Framework?**
+The Layr Engineering Career Framework is open to the entire Layr Engineering team.  We invite all members to submit pull requests to improve it.  Furthermore, the Layr Engineering Paths is in a public repository so anyone can help us improve with your perspectives.
 
 **When is a person ready to move to the next level?**
 We will measure performance Telemetry through quarterly 360 degree feedback.  We will measure training performance through assessments, certifications, skill demonstrations, etc. To level up your career at Layr your must, at a minimum, meet the training and telemetry expectations for at least one quarter. You must then present your case to the Coaching Team that you have successfully achieved the next scope of your chosen engineering path.
