@@ -136,8 +136,8 @@ Here are the profiles for each role and level in Layr Engineering team (click on
 | Step | [Software](Software-Engineer.md) | [Quality](Quality-Engineer.md) | [Delivery](Delivery-Engineer.md) | [Product](Product-Engineer.md) |
 | :---: | :---: | :---: | :---: |  :---: |
 | 1 | [SE1](Software-Engineer.md#se1---software-engineer-1) | [QE1](Quality-Engineer.md#qe1---quality-engineer-1) | [DE1](Delivery-Engineer.md#de1---delivery-engineer-1) | [PE1](Product-Engineer.md#pe1---product-engineer-1) |
-| 2 | [SE2](Software-Engineer.md#se2---software-engineer-2) | [QE2](Quality-Engineer.md#qe2---quality-engineer-2) | [DE2](Delivery-Engineer.md#de2---delivery-engineer-2) | [PE1](Product-Engineer.md#pe2---product-engineer-2) |
-| 3 | [SE3](Software-Engineer.md#se3---software-engineer-3) | [QE3](Quality-Engineer.md#qe3---quality-engineer-3) | [DE3](Delivery-Engineer.md#de3---delivery-engineer-3) | [PE1](Product-Engineer.md#pe3---product-engineer-3) |
+| 2 | [SE2](Software-Engineer.md#se2---software-engineer-2) | [QE2](Quality-Engineer.md#qe2---quality-engineer-2) | [DE2](Delivery-Engineer.md#de2---delivery-engineer-2) | [PE2](Product-Engineer.md#pe2---product-engineer-2) |
+| 3 | [SE3](Software-Engineer.md#se3---software-engineer-3) | [QE3](Quality-Engineer.md#qe3---quality-engineer-3) | [DE3](Delivery-Engineer.md#de3---delivery-engineer-3) | [PE3](Product-Engineer.md#pe3---product-engineer-3) |
 | 4 | [SE4](Software-Engineer.md#se4---software-engineer-4) | [QE4](Quality-Engineer.md#qe4---quality-engineer-4) | [DE4](Delivery-Engineer.md#de4---delivery-engineer-4) | [PE4](Product-Engineer.md#pe4---product-engineer-4) |
 | 5 | [SE5](Software-Engineer.md#se5---software-engineer-5) | | | |
 | 6 | [SE6](Software-Engineer.md#se6---software-engineer-6) | | | |
