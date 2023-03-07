@@ -1,6 +1,14 @@
 # Product Engineer
 
-Role responsible for working with business leaders, industry experts, customers, and stakeholders to identify, document, and communicate requirements.
+A Product Manager, also known as a Product Engineer, works closely with stakeholders to understand the business needs and translate them into detailed user stories that drive software engineering work. This individual takes a customer-centric approach to product development, ensuring that each feature and functionality aligns with the user's needs and preferences.
+
+The Product Engineer is responsible for defining and prioritizing the product roadmap, working closely with stakeholders to ensure that product goals are aligned with business objectives. They also work closely with the software and qaulity engineering teams to ensure that each user story is clearly defined and that the team has a clear understanding of what needs to be built.
+
+The Product Engineer also facilitates regular meetings with stakeholders to gather feedback and incorporate it into the product development process. They use customer feedback and data to continuously improve the product and ensure that it meets the needs of the user.
+
+In addition, the Product Engineer works closely with the software and qaulity engineering teams to ensure that each user story is accurately reflected in the product backlog. They use Agile methodologies to prioritize and manage the backlog, ensuring that the team remains focused on the most critical tasks.
+
+Overall, the Product Engineer is a customer-focused individual who works closely with stakeholders and the software and qaulity engineering teams to ensure that the product meets the needs of the user. They use data and feedback to continuously improve the product and drive software engineering work.
 
 | Level | Position |
 | :---: |  :---: |
