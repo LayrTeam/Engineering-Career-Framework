@@ -27,11 +27,14 @@ Then, there are sometimes, there are good reasons to not pursue any improvements
 The framework is composed of different systems, each of which is critical to delivering business value for our customers.
 
 ## Systems
-For our purposes, the definition of a system, is -
 
-_"A combination of people, technologies, and processes that produce artifacts used to create technology enabled experiences for our customers"_
+The definition of a system, in the context of technology-enabled experiences for customers, is a combination of people, technologies, and processes that produce artifacts. Different companies use different systems to create the experiences that bring the most value to their customers. The Layr Engineering team identified several systems, including software, application and infrastructure code, build processes, architectural diagrams, quality, testing plans, automated testing code for UIs and APIs, delivery roadmaps, performance metrics, and product stories and requirements, as necessary to deliver for customers, users, and stakeholders.
 
-Different companies combine different systems (e.g., combinations of people. technologies, and processes) to create the experiences that will bring the most value to their customers. The Layr Engineering team determined that the following systems are necessary to deliver for our customers, users, and stakeholders -
+Layr therefore definea a system as -
+
+_"A combination of people, technologies, and processes that produce artifacts used to create technology enabled experiences for our customers"
+
+The Layr Engineering team determined that the following systems are necessary to deliver for our customers, users, and stakeholders -
 * Software
   * Application & Infrastructure code
   * Build processes
