@@ -1,6 +1,14 @@
 # Quality Engineer
 
-The primary system for team members on this path is the quality program and includes automated regression tests for UI's and API's and related tools that we use to create a high quality experience for our customers. 
+A Quality Engineer is responsible for ensuring that the software product or application meets the highest quality standards. This individual utilizes tools like Cypress to create automated regression tests that maximize the quality of the customer's experience.
+
+The Quality Engineer understands the importance of testing and validation to ensure that the software product or application meets customer expectations. They work closely with the development team to identify and fix any defects or issues that arise during the development process. They also work closely with the product manager to ensure that the product meets the needs of the customer.
+
+The Quality Engineer uses Cypress, a popular testing tool, to create automated regression tests that validate the functionality and performance of the software product or application. They write detailed test scripts that cover all possible scenarios, ensuring that the product is thoroughly tested and validated.
+
+In addition, the Quality Engineer uses data and analytics to continuously improve the testing process. They analyze test results to identify areas for improvement and optimize the testing process to maximize efficiency and effectiveness.
+
+Overall, the Quality Engineer is a critical part of the software development process, ensuring that the software product or application meets the highest quality standards. They utilize tools like Cypress to create automated regression tests that maximize the quality of the customer's experience and continuously improve the testing process to drive quality and efficiency.
 
 | Level |  Position |
 | :---: |  :---: |
