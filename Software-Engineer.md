@@ -1,6 +1,14 @@
 # Software Engineer
 
-The primary system for team members on this path is software we build to enable our customers, all of the related technologies, and tools.
+A Software Engineer who utilizes TypeScript and AWS services creates high-quality experiences for customers using Lambda microservice architectures. This individual has a deep understanding of TypeScript, a strongly-typed programming language that enables the creation of robust and reliable applications. They use TypeScript to write clean and maintainable code that is easy to understand and modify.
+
+The Software Engineer also has expertise in AWS services, which they use to build scalable and resilient microservices. They use AWS Lambda to create serverless functions that run on-demand and scale automatically based on traffic and usage patterns. They also utilize other AWS services such as API Gateway, DynamoDB, and S3 to create a fully-functional microservice architecture.
+
+The Software Engineer takes a customer-centric approach to software development, ensuring that each microservice meets the needs of the user. They work closely with the product manager to understand the customer requirements and create software solutions that align with business objectives.
+
+In addition, the Software Engineer understands the importance of testing and validation to ensure that the software product or application meets the highest quality standards. They write unit tests, integration tests, and end-to-end tests to validate the functionality and performance of each microservice.
+
+Overall, the Software Engineer who utilizes TypeScript and AWS services to create high-quality experiences for customers using Lambda microservice architectures is a critical part of the software development process. They use their expertise to create reliable, scalable, and resilient applications that meet the needs of the user and drive business success.
 
 | Level | Position |
 | :---: | :---: |
