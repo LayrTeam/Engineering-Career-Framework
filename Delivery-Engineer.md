@@ -1,6 +1,14 @@
 # Delivery Engineer
 
-The primary system for team members on this path is the work discipline program that and includes models that can help the team manage their work, monitor their progress, and identify opportunities to streamline processes. 
+An Agile project manager, also known as a Delivery Engineer, who utilizes a Kanban development process, collects and utilizes data to effectively manage the project. This individual understands the importance of using metrics and feedback to make informed decisions and continually improve the process. They work closely with the development team to ensure that the Kanban board is up-to-date and that each task is accurately reflected in the process flow.
+
+The Delivery Engineer uses a range of tools to collect and analyze data on key performance indicators (KPIs) such as cycle time, lead time, and throughput. They use this information to identify areas for improvement and make data-driven decisions to optimize the workflow. They also use metrics to monitor team performance and ensure that the team is meeting their targets and objectives.
+
+The Agile project manager facilitates regular meetings with the team to promote collaboration and transparency. They use these meetings to provide feedback on the team's progress and identify any issues or challenges that need to be addressed. They also work closely with stakeholders to ensure that project goals are aligned with business objectives.
+
+The Delivery Engineer understands the importance of prioritization and managing work in progress (WIP) limits to ensure that the team remains focused on the most critical tasks. They use data to identify when to adjust WIP limits and when to increase or decrease the team's capacity.
+
+Overall, the Agile project manager, or Delivery Engineer, who collects and utilizes data to manage a Kanban development process is a data-driven decision-maker who is continuously seeking ways to improve the process and increase efficiency.
 
 | Level | Position |
 | :---: | :---: |
