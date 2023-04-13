@@ -1,5 +1,9 @@
 # Quality Engineer
 
+## Summary
+Quality Engineer dedicated to ensuring software products and applications meet the highest quality standards, with expertise in Cypress for automated regression testing. Committed to testing and validation, collaborating with development teams to identify and fix defects, and working closely with product managers to meet customer needs. Skilled in creating detailed test scripts covering all scenarios, leveraging data and analytics to continuously improve the testing process, and optimizing testing efficiency and effectiveness. Instrumental in delivering exceptional customer experiences through a focus on quality and continuous improvement.
+
+## Details
 A Quality Engineer is responsible for ensuring that the software product or application meets the highest quality standards. This individual utilizes tools like Cypress to create automated regression tests that maximize the quality of the customer's experience.
 
 The Quality Engineer understands the importance of testing and validation to ensure that the software product or application meets customer expectations. They work closely with the development team to identify and fix any defects or issues that arise during the development process. They also work closely with the product manager to ensure that the product meets the needs of the customer.
