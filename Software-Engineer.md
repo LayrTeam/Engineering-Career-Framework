@@ -1,5 +1,9 @@
 # Software Engineer
 
+## Summary
+Software Engineer specializing in TypeScript and AWS services to deliver customer-centric, high-quality experiences using Lambda microservice architectures. Leverages deep knowledge of TypeScript for clean, maintainable code, and AWS expertise to build scalable, resilient microservices with services such as API Gateway, DynamoDB, and S3. Collaborates closely with product managers to align software solutions with business objectives. Ensures the highest quality standards by implementing rigorous testing and validation processes. Adept at driving business success through reliable, scalable, and resilient applications tailored to user needs.
+
+## Details
 A Software Engineer who utilizes TypeScript and AWS services creates high-quality experiences for customers using Lambda microservice architectures. This individual has a deep understanding of TypeScript, a strongly-typed programming language that enables the creation of robust and reliable applications. They use TypeScript to write clean and maintainable code that is easy to understand and modify.
 
 The Software Engineer also has expertise in AWS services, which they use to build scalable and resilient microservices. They use AWS Lambda to create serverless functions that run on-demand and scale automatically based on traffic and usage patterns. They also utilize other AWS services such as API Gateway, DynamoDB, and S3 to create a fully-functional microservice architecture.
