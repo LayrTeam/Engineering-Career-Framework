@@ -1,6 +1,13 @@
 # Delivery Director
+## Summary
+Director of Delivery Engineering with expertise in guiding teams to ensure successful execution of software development projects. Fosters a culture of efficiency and continuous improvement, streamlines project delivery processes, and mentors team members for professional growth. Proficient in embracing industry best practices and Agile methodologies, prioritizing timely delivery, resource optimization, and user experience. Committed to nurturing collaboration, promoting effective communication, and bridging the gap between technical and non-technical stakeholders for informed decision-making and organizational success.
 
-The primary system for team members on this path is the work discipline program that and includes models that can help the team manage their work, monitor their progress, and identify opportunities to streamline processes. 
+## Details
+Director of Delivery Engineering, a seasoned leader and project management expert, adept at overseeing and guiding delivery engineering teams to ensure the successful execution of software development projects. This strategic role involves collaborating with cross-functional teams, setting clear project objectives, and driving performance metrics to ensure the effective execution of project delivery processes and alignment with business goals.
+
+Key responsibilities include fostering a culture of efficiency and continuous improvement, ensuring streamlined project delivery processes, and mentoring team members for professional growth. The Director of Delivery Engineering embraces industry best practices and Agile methodologies to maintain a competitive edge while prioritizing timely delivery, resource optimization, and user experience.
+
+With a deep understanding of project management methodologies, the Director of Delivery Engineering is committed to nurturing a collaborative environment, promoting effective communication, and ensuring that software development projects are completed on time and within budget. This leader plays a pivotal role in bridging the gap between technical and non-technical stakeholders, facilitating informed decision-making, and contributing to the organization's overall success.
 
 | Level | Position |
 | :---: | :---: |
